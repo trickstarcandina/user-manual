@@ -43,13 +43,19 @@
 Github
 
 ===push
+
 b0: git ssh (public key)
+
 b1: git remote add origin 'link'
+
 b2: git add .
+
 b3: git commit -m '...'
+
 b4: git push origin master
 
 ====pull
+
 1. git clone: tải code về máy
 
 2. git pull: dung khi bên A thay đổi, bên B sẽ tải cái thay đổi đó mà k phải tải lại hết code

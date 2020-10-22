@@ -9,7 +9,7 @@
 
 5. git log: xem lại lịch sử đã commit những gì
 
-6. git show: hiện ra toàn bộ nhwungx thay đổi trong một hộp có nhãn commit
+6. git show: hiện ra toàn bộ những thay đổi trong một hộp có nhãn commit
 
 7. git diff: xem thay đổi của những file modifile
 

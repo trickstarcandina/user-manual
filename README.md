@@ -73,3 +73,8 @@ Dùng github nhóm
 2. git push origin feature/horse: đẩy branch lên git
 
 3. pull request: comment trên github để ghép code từ branch khác vào branch master(branch chính)
+
+Tham khảo thêm: 
+https://viblo.asia/p/tim-hieu-mot-so-khai-niem-va-ki-thuat-thuong-dung-trong-git-phan-1-naQZR4pP5vx
+
+https://viblo.asia/p/tim-hieu-mot-so-khai-niem-va-ki-thuat-thuong-dung-trong-git-phan-2-Az45b9BOlxY

@@ -78,3 +78,5 @@ Tham khảo thêm:
 https://viblo.asia/p/tim-hieu-mot-so-khai-niem-va-ki-thuat-thuong-dung-trong-git-phan-1-naQZR4pP5vx
 
 https://viblo.asia/p/tim-hieu-mot-so-khai-niem-va-ki-thuat-thuong-dung-trong-git-phan-2-Az45b9BOlxY
+
+https://rogerdudler.github.io/git-guide/index.vi.html

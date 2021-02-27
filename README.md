@@ -80,3 +80,5 @@ https://viblo.asia/p/tim-hieu-mot-so-khai-niem-va-ki-thuat-thuong-dung-trong-git
 https://viblo.asia/p/tim-hieu-mot-so-khai-niem-va-ki-thuat-thuong-dung-trong-git-phan-2-Az45b9BOlxY
 
 https://rogerdudler.github.io/git-guide/index.vi.html
+
+https://stackoverflow.com/questions/26042390/git-add-asterisk-vs-git-add-period
